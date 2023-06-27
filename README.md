@@ -1,2 +1,3 @@
 # ProyectoPizzeria
-Proyecto de pizzeria para portafolio /newpage -Falta actualizar varias cosas
+Proyecto de pizzeria para portafolio
+-Falta actualizar varias cosas
